@@ -1,4 +1,4 @@
-# E# 💰 Expense Tracker Dashboard UI
+## 💰 Expense Tracker Dashboard UI
 
 ## 📌 About
 This project is a simple Expense Tracker Dashboard built using HTML and CSS.  
