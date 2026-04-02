@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    font-family: Arial;
+    background: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Title */
+h1 {
+    margin-bottom: 20px;
+}
+
+/* Cards */
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card {
+    padding: 20px;
+    width: 200px;
+    border-radius: 10px;
+    color: white;
+}
+
+/* Colors */
+.balance {
+    background: #667eea;
+}
+
+.income {
+    background: green;
+}
+
+.expense {
+    background: red;
+}
+
+/* Table */
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+/* Text Colors */
+.income-text {
+    color: green;
+}
+
+.expense-text {
+    color: red;
+}
